@@ -1,4 +1,6 @@
 /*
+Francisco Gabriel de Oliveira Bezerra	12/08/2025
+
 O objetivo eh fazer um programa que solicite ao usuario que
 digite uma sequencia de numeros reais nao nulos. Quando o
 usuario digitar zero, entende-se que ele concluiu a entrada
